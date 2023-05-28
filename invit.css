@@ -1,0 +1,147 @@
+
+body {
+  background-color: #f2f2f2;
+  cursor: pointer;
+  text-align: center;
+
+}
+  
+
+.header {
+  
+  color: #162d59;
+  text-align: center;
+  font-size: medium;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  
+}
+
+.line {
+  
+ border: 0px;
+ border-top: 2px solid #162d59;
+  margin-top: 0px;
+}
+
+.arziki {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: small;
+  text-align: center; 
+  margin-bottom: 0px;
+  margin-top: 20px;
+
+}
+
+.sauka {
+  
+  font-size: large;
+  text-align: center;  
+  margin-bottom: 90px;
+  margin-top: 0px;
+
+}
+
+.general 
+    {
+      display: grid;
+      justify-content: center;
+
+    }
+
+
+
+.LOKACI {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: small;
+  text-align: center;  
+  margin-bottom: 0px;
+  margin-top: 0px; 
+}
+
+.LOKACI-1 {
+
+  font-size: small;
+  text-align: center;  
+  margin-bottom: 15px;
+  margin-top: 0px; 
+}
+
+.last-section {
+  text-align: center; 
+  background-color: #162d59;
+  margin-top: 33px;
+  display: grid;
+  justify-content: center;
+
+
+}
+
+.more {
+  color: #162d59;
+  text-align: center;
+  margin-top: 65px;
+
+  
+
+}
+
+.BUTTON-header {
+  color: #162d59;
+  text-align: center;
+  margin-top: 90px;
+  display: grid;
+  justify-content: center;
+ 
+ 
+}
+
+.infor-1 {
+  color: #162d59;
+  margin-left: 32x;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  
+}
+
+.infor-2 {
+  color: #162d59;
+ 
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+  
+}
+
+.infor-3 {
+  color: #162d59;
+  
+  margin-top: 0px;
+  margin-bottom: 40px;
+
+  
+}
+
+.take {
+  background-color: #162d59;
+  color: #f2f2f2;
+  width: 200px;
+  height: 60px;
+  margin-left: 30;
+  font-size: larger;
+  font-family: 'Times New Roman', Times, serif;
+  border: none;
+  border-radius: 22px;
+  margin-top: 0px;
+
+
+
+}
+
+.line-2 {
+  
+  border: 0px;
+  border-top: 2px solid #162d59;
+  margin-top: -63px;
+  
+ }
